@@ -1,1 +1,1 @@
-# cs499
+# Computer Science Final milestone project 
